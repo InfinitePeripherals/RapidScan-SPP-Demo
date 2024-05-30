@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "gGayyN4BTiQghpwasgCb+5lk4zrmZlXQdeut2QHqSW8HFZkcYTicOc1PwMaVnssju0WCAVkDawndf8VaDzFYPA==",
+  "dgSpecHash": "xgwOvjXsWvnO+fXAyXT3jBslADkVa/TEPxRxiCkj1j3GPYPPtdWcuTHEBIh2kY/ruBmBbMkQ0z1uIgGR3ydSOw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Lucas\\Desktop\\BluetoothExample\\BluetoothExample\\BluetoothExampleProject.csproj",
+  "projectFilePath": "C:\\Users\\Lucas\\Documents\\GitHub\\RapidScan-SPP-Demo\\BluetoothExample\\BluetoothExample\\BluetoothExampleProject.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Lucas\\.nuget\\packages\\32feet.net\\3.5.0\\32feet.net.3.5.0.nupkg.sha512",
     "C:\\Users\\Lucas\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",

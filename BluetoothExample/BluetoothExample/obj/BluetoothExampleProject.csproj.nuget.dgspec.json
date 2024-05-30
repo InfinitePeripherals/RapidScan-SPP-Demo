@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Lucas\\Desktop\\BluetoothExample\\BluetoothExample\\BluetoothExampleProject.csproj": {}
+    "C:\\Users\\Lucas\\Documents\\GitHub\\RapidScan-SPP-Demo\\BluetoothExample\\BluetoothExample\\BluetoothExampleProject.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Lucas\\Desktop\\BluetoothExample\\BluetoothExample\\BluetoothExampleProject.csproj": {
+    "C:\\Users\\Lucas\\Documents\\GitHub\\RapidScan-SPP-Demo\\BluetoothExample\\BluetoothExample\\BluetoothExampleProject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Lucas\\Desktop\\BluetoothExample\\BluetoothExample\\BluetoothExampleProject.csproj",
+        "projectUniqueName": "C:\\Users\\Lucas\\Documents\\GitHub\\RapidScan-SPP-Demo\\BluetoothExample\\BluetoothExample\\BluetoothExampleProject.csproj",
         "projectName": "BluetoothExampleProject",
-        "projectPath": "C:\\Users\\Lucas\\Desktop\\BluetoothExample\\BluetoothExample\\BluetoothExampleProject.csproj",
+        "projectPath": "C:\\Users\\Lucas\\Documents\\GitHub\\RapidScan-SPP-Demo\\BluetoothExample\\BluetoothExample\\BluetoothExampleProject.csproj",
         "packagesPath": "C:\\Users\\Lucas\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Lucas\\Desktop\\BluetoothExample\\BluetoothExample\\obj\\",
+        "outputPath": "C:\\Users\\Lucas\\Documents\\GitHub\\RapidScan-SPP-Demo\\BluetoothExample\\BluetoothExample\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Lucas\\AppData\\Roaming\\NuGet\\NuGet.Config",

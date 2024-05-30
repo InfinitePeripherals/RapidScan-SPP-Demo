@@ -90,9 +90,11 @@ namespace BluetoothExample
             using (QRCodeData qrCodeData = qrGenerator.CreateQrCode(payload, eccLevel))
             using (QRCode qrCode = new QRCode(qrCodeData))
             {
+                /*
                 var bmp = qrCode.GetGraphic(2, Color.Black, Color.White, null, (int)0);
                 picQR.BackgroundImage = bmp;
                 picQR.Size = bmp.Size;
+                */
             }
         }
         //--------------------------------------------------------------------------------------------------------------

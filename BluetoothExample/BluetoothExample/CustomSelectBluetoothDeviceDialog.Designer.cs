@@ -28,129 +28,103 @@
         /// </summary>
         private void InitializeComponent()
         {
-            this.components = new System.ComponentModel.Container();
+            components = new System.ComponentModel.Container();
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(CustomSelectBluetoothDeviceDialog));
-            this.btnSearch = new System.Windows.Forms.Button();
-            this.btnOK = new System.Windows.Forms.Button();
-            this.btnCancel = new System.Windows.Forms.Button();
-            this.lblInstructions = new System.Windows.Forms.Label();
-            this.lstDevices = new System.Windows.Forms.ListView();
-            this.deviceImages = new System.Windows.Forms.ImageList(this.components);
-            this.lblScanning = new System.Windows.Forms.Label();
-            this.picQR = new System.Windows.Forms.PictureBox();
-            this.label1 = new System.Windows.Forms.Label();
-            ((System.ComponentModel.ISupportInitialize)(this.picQR)).BeginInit();
-            this.SuspendLayout();
+            btnSearch = new Button();
+            btnOK = new Button();
+            btnCancel = new Button();
+            lblInstructions = new Label();
+            lstDevices = new ListView();
+            deviceImages = new ImageList(components);
+            lblScanning = new Label();
+            SuspendLayout();
             // 
             // btnSearch
             // 
-            this.btnSearch.Location = new System.Drawing.Point(24, 415);
-            this.btnSearch.Name = "btnSearch";
-            this.btnSearch.Size = new System.Drawing.Size(121, 23);
-            this.btnSearch.TabIndex = 0;
-            this.btnSearch.Text = "&Search Again";
-            this.btnSearch.UseVisualStyleBackColor = true;
-            this.btnSearch.Click += new System.EventHandler(this.btnSearch_Click);
+            btnSearch.Location = new Point(24, 415);
+            btnSearch.Name = "btnSearch";
+            btnSearch.Size = new Size(121, 23);
+            btnSearch.TabIndex = 0;
+            btnSearch.Text = "&Search Again";
+            btnSearch.UseVisualStyleBackColor = true;
+            btnSearch.Click += btnSearch_Click;
             // 
             // btnOK
             // 
-            this.btnOK.DialogResult = System.Windows.Forms.DialogResult.OK;
-            this.btnOK.Enabled = false;
-            this.btnOK.Location = new System.Drawing.Point(628, 415);
-            this.btnOK.Name = "btnOK";
-            this.btnOK.Size = new System.Drawing.Size(75, 23);
-            this.btnOK.TabIndex = 1;
-            this.btnOK.Text = "&OK";
-            this.btnOK.UseVisualStyleBackColor = true;
+            btnOK.DialogResult = DialogResult.OK;
+            btnOK.Enabled = false;
+            btnOK.Location = new Point(497, 415);
+            btnOK.Name = "btnOK";
+            btnOK.Size = new Size(75, 23);
+            btnOK.TabIndex = 1;
+            btnOK.Text = "&OK";
+            btnOK.UseVisualStyleBackColor = true;
             // 
             // btnCancel
             // 
-            this.btnCancel.DialogResult = System.Windows.Forms.DialogResult.Cancel;
-            this.btnCancel.Location = new System.Drawing.Point(713, 415);
-            this.btnCancel.Name = "btnCancel";
-            this.btnCancel.Size = new System.Drawing.Size(75, 23);
-            this.btnCancel.TabIndex = 2;
-            this.btnCancel.Text = "&Cancel";
-            this.btnCancel.UseVisualStyleBackColor = true;
+            btnCancel.DialogResult = DialogResult.Cancel;
+            btnCancel.Location = new Point(578, 415);
+            btnCancel.Name = "btnCancel";
+            btnCancel.Size = new Size(75, 23);
+            btnCancel.TabIndex = 2;
+            btnCancel.Text = "&Cancel";
+            btnCancel.UseVisualStyleBackColor = true;
             // 
             // lblInstructions
             // 
-            this.lblInstructions.AutoSize = true;
-            this.lblInstructions.Location = new System.Drawing.Point(24, 363);
-            this.lblInstructions.Name = "lblInstructions";
-            this.lblInstructions.Size = new System.Drawing.Size(660, 15);
-            this.lblInstructions.TabIndex = 3;
-            this.lblInstructions.Text = "If you don\'t see the Halo device you want to add, load AirScan on the device and " +
-    "scan the QR Code  then click Search Again.";
+            lblInstructions.AutoSize = true;
+            lblInstructions.Location = new Point(24, 363);
+            lblInstructions.Name = "lblInstructions";
+            lblInstructions.Size = new Size(558, 15);
+            lblInstructions.TabIndex = 3;
+            lblInstructions.Text = "If you don't see the Halo device you want to add, open the DSS app on the Halo, then click Search Again.";
             // 
             // lstDevices
             // 
-            this.lstDevices.LargeImageList = this.deviceImages;
-            this.lstDevices.Location = new System.Drawing.Point(12, 12);
-            this.lstDevices.Name = "lstDevices";
-            this.lstDevices.Size = new System.Drawing.Size(639, 338);
-            this.lstDevices.TabIndex = 4;
-            this.lstDevices.UseCompatibleStateImageBehavior = false;
-            this.lstDevices.SelectedIndexChanged += new System.EventHandler(this.lstDevices_SelectedIndexChanged);
+            lstDevices.LargeImageList = deviceImages;
+            lstDevices.Location = new Point(12, 12);
+            lstDevices.Name = "lstDevices";
+            lstDevices.Size = new Size(641, 338);
+            lstDevices.TabIndex = 4;
+            lstDevices.UseCompatibleStateImageBehavior = false;
+            lstDevices.SelectedIndexChanged += lstDevices_SelectedIndexChanged;
             // 
             // deviceImages
             // 
-            this.deviceImages.ColorDepth = System.Windows.Forms.ColorDepth.Depth8Bit;
-            this.deviceImages.ImageStream = ((System.Windows.Forms.ImageListStreamer)(resources.GetObject("deviceImages.ImageStream")));
-            this.deviceImages.TransparentColor = System.Drawing.Color.Transparent;
-            this.deviceImages.Images.SetKeyName(0, "HaloRingScanner.png");
+            deviceImages.ColorDepth = ColorDepth.Depth8Bit;
+            deviceImages.ImageStream = (ImageListStreamer)resources.GetObject("deviceImages.ImageStream");
+            deviceImages.TransparentColor = Color.Transparent;
+            deviceImages.Images.SetKeyName(0, "HaloRingScanner.png");
             // 
             // lblScanning
             // 
-            this.lblScanning.AutoSize = true;
-            this.lblScanning.Font = new System.Drawing.Font("Segoe UI", 48F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
-            this.lblScanning.Location = new System.Drawing.Point(132, 153);
-            this.lblScanning.Name = "lblScanning";
-            this.lblScanning.Size = new System.Drawing.Size(338, 86);
-            this.lblScanning.TabIndex = 5;
-            this.lblScanning.Text = "Scanning...";
-            this.lblScanning.Visible = false;
-            // 
-            // picQR
-            // 
-            this.picQR.BackColor = System.Drawing.Color.Silver;
-            this.picQR.Location = new System.Drawing.Point(660, 31);
-            this.picQR.Name = "picQR";
-            this.picQR.Size = new System.Drawing.Size(128, 128);
-            this.picQR.TabIndex = 6;
-            this.picQR.TabStop = false;
-            // 
-            // label1
-            // 
-            this.label1.AutoSize = true;
-            this.label1.Location = new System.Drawing.Point(675, 13);
-            this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(96, 15);
-            this.label1.TabIndex = 7;
-            this.label1.Text = "Airscan QR Code";
+            lblScanning.AutoSize = true;
+            lblScanning.Font = new Font("Segoe UI", 48F, FontStyle.Regular, GraphicsUnit.Point);
+            lblScanning.Location = new Point(132, 153);
+            lblScanning.Name = "lblScanning";
+            lblScanning.Size = new Size(338, 86);
+            lblScanning.TabIndex = 5;
+            lblScanning.Text = "Scanning...";
+            lblScanning.Visible = false;
             // 
             // CustomSelectBluetoothDeviceDialog
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
-            this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(800, 450);
-            this.Controls.Add(this.label1);
-            this.Controls.Add(this.picQR);
-            this.Controls.Add(this.lblScanning);
-            this.Controls.Add(this.lstDevices);
-            this.Controls.Add(this.lblInstructions);
-            this.Controls.Add(this.btnCancel);
-            this.Controls.Add(this.btnOK);
-            this.Controls.Add(this.btnSearch);
-            this.MaximizeBox = false;
-            this.MinimizeBox = false;
-            this.Name = "CustomSelectBluetoothDeviceDialog";
-            this.Text = "Select Bluetooth Device";
-            this.Shown += new System.EventHandler(this.CustomSelectBluetoothDeviceDialog_Shown);
-            ((System.ComponentModel.ISupportInitialize)(this.picQR)).EndInit();
-            this.ResumeLayout(false);
-            this.PerformLayout();
-
+            AutoScaleDimensions = new SizeF(7F, 15F);
+            AutoScaleMode = AutoScaleMode.Font;
+            ClientSize = new Size(665, 450);
+            Controls.Add(lblScanning);
+            Controls.Add(lstDevices);
+            Controls.Add(lblInstructions);
+            Controls.Add(btnCancel);
+            Controls.Add(btnOK);
+            Controls.Add(btnSearch);
+            MaximizeBox = false;
+            MinimizeBox = false;
+            Name = "CustomSelectBluetoothDeviceDialog";
+            Text = "Select Bluetooth Device";
+            Shown += CustomSelectBluetoothDeviceDialog_Shown;
+            ResumeLayout(false);
+            PerformLayout();
         }
 
         #endregion
@@ -162,7 +136,5 @@
         private ListView lstDevices;
         private Label lblScanning;
         private ImageList deviceImages;
-        private PictureBox picQR;
-        private Label label1;
     }
 }
