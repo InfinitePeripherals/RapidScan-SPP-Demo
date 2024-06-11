@@ -54,6 +54,7 @@ namespace BluetoothExample
             {
                 BluetoothClient client = new BluetoothClient();
                 client.Connect(device.DeviceAddress, BluetoothService.SerialPort);
+                
                 if (client.Connected) 
                   new BluetoothScanner(client, device, this); // take this bluetooth connection and monitor for incoming barcodes, process them, send RISL card out
             }
@@ -65,7 +66,7 @@ namespace BluetoothExample
         // If a Brand New Connection is needed
         public void PairThenConnect(BluetoothDeviceInfo x)
         {
-            bool pairingSuccessful = BluetoothSecurity.PairRequest(x.DeviceAddress,"000000");
+            bool pairingSuccessful = BluetoothSecurity.PairRequest(x.DeviceAddress, null);
             if (pairingSuccessful) Connect(x);
             else MessageBox.Show("Paring Unsuccesful");
         }

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BluetoothExampleProject")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+94383dfe4edaae00348b39de3295a2f323d8df4c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c0d37e5c35d1657b8eab6a7b7b352b3330f88048")]
 [assembly: System.Reflection.AssemblyProductAttribute("BluetoothExampleProject")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BluetoothExampleProject")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

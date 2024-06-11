@@ -3,11 +3,11 @@
   "WorkspaceRootPath": "C:\\Users\\Lucas\\Documents\\GitHub\\RapidScan-SPP-Demo\\BluetoothExample\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BBDDDDDE-E1FB-41B7-A5BC-1F155B681798}|BluetoothExample\\BluetoothExampleProject.csproj|c:\\users\\lucas\\documents\\github\\rapidscan-spp-demo\\bluetoothexample\\bluetoothexample\\bluetoothexampleproject.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{BBDDDDDE-E1FB-41B7-A5BC-1F155B681798}|BluetoothExample\\BluetoothExampleProject.csproj|solutionrelative:bluetoothexample\\bluetoothexampleproject.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{BBDDDDDE-E1FB-41B7-A5BC-1F155B681798}|BluetoothExample\\BluetoothExampleProject.csproj|c:\\users\\lucas\\documents\\github\\rapidscan-spp-demo\\bluetoothexample\\bluetoothexample\\connectexampleform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBDDDDDE-E1FB-41B7-A5BC-1F155B681798}|BluetoothExample\\BluetoothExampleProject.csproj|solutionrelative:bluetoothexample\\connectexampleform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BBDDDDDE-E1FB-41B7-A5BC-1F155B681798}|BluetoothExample\\BluetoothExampleProject.csproj|C:\\Users\\Lucas\\Documents\\GitHub\\RapidScan-SPP-Demo\\BluetoothExample\\bluetoothexample\\customselectbluetoothdevicedialog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{BBDDDDDE-E1FB-41B7-A5BC-1F155B681798}|BluetoothExample\\BluetoothExampleProject.csproj|c:\\users\\lucas\\documents\\github\\rapidscan-spp-demo\\bluetoothexample\\bluetoothexample\\customselectbluetoothdevicedialog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BBDDDDDE-E1FB-41B7-A5BC-1F155B681798}|BluetoothExample\\BluetoothExampleProject.csproj|solutionrelative:bluetoothexample\\customselectbluetoothdevicedialog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -15,35 +15,27 @@
       "RelativeMoniker": "D:0:0:{BBDDDDDE-E1FB-41B7-A5BC-1F155B681798}|BluetoothExample\\BluetoothExampleProject.csproj|solutionrelative:bluetoothexample\\customselectbluetoothdevicedialog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BBDDDDDE-E1FB-41B7-A5BC-1F155B681798}|BluetoothExample\\BluetoothExampleProject.csproj|C:\\Users\\Lucas\\Documents\\GitHub\\RapidScan-SPP-Demo\\BluetoothExample\\bluetoothexample\\connectexampleform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{BBDDDDDE-E1FB-41B7-A5BC-1F155B681798}|BluetoothExample\\BluetoothExampleProject.csproj|solutionrelative:bluetoothexample\\connectexampleform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BBDDDDDE-E1FB-41B7-A5BC-1F155B681798}|BluetoothExample\\BluetoothExampleProject.csproj|C:\\Users\\Lucas\\Documents\\GitHub\\RapidScan-SPP-Demo\\BluetoothExample\\bluetoothexample\\connectexampleform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BBDDDDDE-E1FB-41B7-A5BC-1F155B681798}|BluetoothExample\\BluetoothExampleProject.csproj|solutionrelative:bluetoothexample\\connectexampleform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BBDDDDDE-E1FB-41B7-A5BC-1F155B681798}|BluetoothExample\\BluetoothExampleProject.csproj|C:\\Users\\Lucas\\Documents\\GitHub\\RapidScan-SPP-Demo\\BluetoothExample\\bluetoothexample\\connectexampleform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BBDDDDDE-E1FB-41B7-A5BC-1F155B681798}|BluetoothExample\\BluetoothExampleProject.csproj|solutionrelative:bluetoothexample\\connectexampleform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BBDDDDDE-E1FB-41B7-A5BC-1F155B681798}|BluetoothExample\\BluetoothExampleProject.csproj|C:\\Users\\Lucas\\Documents\\GitHub\\RapidScan-SPP-Demo\\BluetoothExample\\bluetoothexample\\bluetoothreconnectionmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BBDDDDDE-E1FB-41B7-A5BC-1F155B681798}|BluetoothExample\\BluetoothExampleProject.csproj|solutionrelative:bluetoothexample\\bluetoothreconnectionmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BBDDDDDE-E1FB-41B7-A5BC-1F155B681798}|BluetoothExample\\BluetoothExampleProject.csproj|C:\\Users\\Lucas\\Documents\\GitHub\\RapidScan-SPP-Demo\\BluetoothExample\\bluetoothexample\\bluetoothconnectionmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BBDDDDDE-E1FB-41B7-A5BC-1F155B681798}|BluetoothExample\\BluetoothExampleProject.csproj|solutionrelative:bluetoothexample\\bluetoothconnectionmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BBDDDDDE-E1FB-41B7-A5BC-1F155B681798}|BluetoothExample\\BluetoothExampleProject.csproj|C:\\Users\\Lucas\\Documents\\GitHub\\RapidScan-SPP-Demo\\BluetoothExample\\bluetoothexample\\customselectbluetoothdevicedialog.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BBDDDDDE-E1FB-41B7-A5BC-1F155B681798}|BluetoothExample\\BluetoothExampleProject.csproj|solutionrelative:bluetoothexample\\customselectbluetoothdevicedialog.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BBDDDDDE-E1FB-41B7-A5BC-1F155B681798}|BluetoothExample\\BluetoothExampleProject.csproj|C:\\Users\\Lucas\\Documents\\GitHub\\RapidScan-SPP-Demo\\BluetoothExample\\bluetoothexample\\bluetoothscanner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{BBDDDDDE-E1FB-41B7-A5BC-1F155B681798}|BluetoothExample\\BluetoothExampleProject.csproj|c:\\users\\lucas\\documents\\github\\rapidscan-spp-demo\\bluetoothexample\\bluetoothexample\\bluetoothscanner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BBDDDDDE-E1FB-41B7-A5BC-1F155B681798}|BluetoothExample\\BluetoothExampleProject.csproj|solutionrelative:bluetoothexample\\bluetoothscanner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BBDDDDDE-E1FB-41B7-A5BC-1F155B681798}|BluetoothExample\\BluetoothExampleProject.csproj|C:\\Users\\Lucas\\Documents\\GitHub\\RapidScan-SPP-Demo\\BluetoothExample\\bluetoothexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{BBDDDDDE-E1FB-41B7-A5BC-1F155B681798}|BluetoothExample\\BluetoothExampleProject.csproj|c:\\users\\lucas\\documents\\github\\rapidscan-spp-demo\\bluetoothexample\\bluetoothexample\\connectexampleform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBDDDDDE-E1FB-41B7-A5BC-1F155B681798}|BluetoothExample\\BluetoothExampleProject.csproj|solutionrelative:bluetoothexample\\connectexampleform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBDDDDDE-E1FB-41B7-A5BC-1F155B681798}|BluetoothExample\\BluetoothExampleProject.csproj|c:\\users\\lucas\\documents\\github\\rapidscan-spp-demo\\bluetoothexample\\bluetoothexample\\bluetoothreconnectionmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBDDDDDE-E1FB-41B7-A5BC-1F155B681798}|BluetoothExample\\BluetoothExampleProject.csproj|solutionrelative:bluetoothexample\\bluetoothreconnectionmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBDDDDDE-E1FB-41B7-A5BC-1F155B681798}|BluetoothExample\\BluetoothExampleProject.csproj|c:\\users\\lucas\\documents\\github\\rapidscan-spp-demo\\bluetoothexample\\bluetoothexample\\bluetoothconnectionmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBDDDDDE-E1FB-41B7-A5BC-1F155B681798}|BluetoothExample\\BluetoothExampleProject.csproj|solutionrelative:bluetoothexample\\bluetoothconnectionmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBDDDDDE-E1FB-41B7-A5BC-1F155B681798}|BluetoothExample\\BluetoothExampleProject.csproj|c:\\users\\lucas\\documents\\github\\rapidscan-spp-demo\\bluetoothexample\\bluetoothexample\\customselectbluetoothdevicedialog.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBDDDDDE-E1FB-41B7-A5BC-1F155B681798}|BluetoothExample\\BluetoothExampleProject.csproj|solutionrelative:bluetoothexample\\customselectbluetoothdevicedialog.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBDDDDDE-E1FB-41B7-A5BC-1F155B681798}|BluetoothExample\\BluetoothExampleProject.csproj|c:\\users\\lucas\\documents\\github\\rapidscan-spp-demo\\bluetoothexample\\bluetoothexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BBDDDDDE-E1FB-41B7-A5BC-1F155B681798}|BluetoothExample\\BluetoothExampleProject.csproj|solutionrelative:bluetoothexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -54,32 +46,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "BluetoothExampleProject.csproj",
-              "DocumentMoniker": "C:\\Users\\Lucas\\Documents\\GitHub\\RapidScan-SPP-Demo\\BluetoothExample\\BluetoothExample\\BluetoothExampleProject.csproj",
-              "RelativeDocumentMoniker": "BluetoothExample\\BluetoothExampleProject.csproj",
-              "ToolTip": "C:\\Users\\Lucas\\Documents\\GitHub\\RapidScan-SPP-Demo\\BluetoothExample\\BluetoothExample\\BluetoothExampleProject.csproj",
-              "RelativeToolTip": "BluetoothExample\\BluetoothExampleProject.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAKAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-05-30T23:06:05.627Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ConnectExampleForm.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Lucas\\Documents\\GitHub\\RapidScan-SPP-Demo\\BluetoothExample\\BluetoothExample\\ConnectExampleForm.cs",
-              "RelativeDocumentMoniker": "BluetoothExample\\ConnectExampleForm.cs",
-              "ToolTip": "C:\\Users\\Lucas\\Documents\\GitHub\\RapidScan-SPP-Demo\\BluetoothExample\\BluetoothExample\\ConnectExampleForm.cs [Design]",
-              "RelativeToolTip": "BluetoothExample\\ConnectExampleForm.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-22T20:22:22.666Z"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
@@ -88,9 +56,48 @@
               "RelativeDocumentMoniker": "BluetoothExample\\CustomSelectBluetoothDeviceDialog.cs",
               "ToolTip": "C:\\Users\\Lucas\\Documents\\GitHub\\RapidScan-SPP-Demo\\BluetoothExample\\BluetoothExample\\CustomSelectBluetoothDeviceDialog.cs",
               "RelativeToolTip": "BluetoothExample\\CustomSelectBluetoothDeviceDialog.cs",
-              "ViewState": "AQIAAE0AAAAAAAAAAAASwGAAAAASAAAA",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAgwDQAAAATAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-22T20:22:21.479Z"
+              "WhenOpened": "2024-05-22T20:22:21.479Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ConnectExampleForm.cs",
+              "DocumentMoniker": "C:\\Users\\Lucas\\Documents\\GitHub\\RapidScan-SPP-Demo\\BluetoothExample\\BluetoothExample\\ConnectExampleForm.cs",
+              "RelativeDocumentMoniker": "BluetoothExample\\ConnectExampleForm.cs",
+              "ToolTip": "C:\\Users\\Lucas\\Documents\\GitHub\\RapidScan-SPP-Demo\\BluetoothExample\\BluetoothExample\\ConnectExampleForm.cs",
+              "RelativeToolTip": "BluetoothExample\\ConnectExampleForm.cs",
+              "ViewState": "AQIAADAAAAAAAAAAAAAowDMAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T20:22:21.541Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BluetoothReconnectionManager.cs",
+              "DocumentMoniker": "C:\\Users\\Lucas\\Documents\\GitHub\\RapidScan-SPP-Demo\\BluetoothExample\\BluetoothExample\\BluetoothReconnectionManager.cs",
+              "RelativeDocumentMoniker": "BluetoothExample\\BluetoothReconnectionManager.cs",
+              "ToolTip": "C:\\Users\\Lucas\\Documents\\GitHub\\RapidScan-SPP-Demo\\BluetoothExample\\BluetoothExample\\BluetoothReconnectionManager.cs",
+              "RelativeToolTip": "BluetoothExample\\BluetoothReconnectionManager.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAgwCEAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T20:22:21.546Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BluetoothScanner.cs",
+              "DocumentMoniker": "C:\\Users\\Lucas\\Documents\\GitHub\\RapidScan-SPP-Demo\\BluetoothExample\\BluetoothExample\\BluetoothScanner.cs",
+              "RelativeDocumentMoniker": "BluetoothExample\\BluetoothScanner.cs",
+              "ToolTip": "C:\\Users\\Lucas\\Documents\\GitHub\\RapidScan-SPP-Demo\\BluetoothExample\\BluetoothExample\\BluetoothScanner.cs",
+              "RelativeToolTip": "BluetoothExample\\BluetoothScanner.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAWwFkAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T20:22:21.543Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -106,54 +113,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "ConnectExampleForm.cs",
-              "DocumentMoniker": "C:\\Users\\Lucas\\Documents\\GitHub\\RapidScan-SPP-Demo\\BluetoothExample\\BluetoothExample\\ConnectExampleForm.cs",
-              "RelativeDocumentMoniker": "BluetoothExample\\ConnectExampleForm.cs",
-              "ToolTip": "C:\\Users\\Lucas\\Documents\\GitHub\\RapidScan-SPP-Demo\\BluetoothExample\\BluetoothExample\\ConnectExampleForm.cs",
-              "RelativeToolTip": "BluetoothExample\\ConnectExampleForm.cs",
-              "ViewState": "AQIAAAsAAAAAAAAAAAAQwB0AAABrAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-22T20:22:21.541Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "CustomSelectBluetoothDeviceDialog.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Lucas\\Documents\\GitHub\\RapidScan-SPP-Demo\\BluetoothExample\\BluetoothExample\\CustomSelectBluetoothDeviceDialog.cs",
-              "RelativeDocumentMoniker": "BluetoothExample\\CustomSelectBluetoothDeviceDialog.cs",
-              "ToolTip": "C:\\Users\\Lucas\\Documents\\GitHub\\RapidScan-SPP-Demo\\BluetoothExample\\BluetoothExample\\CustomSelectBluetoothDeviceDialog.cs [Design]",
-              "RelativeToolTip": "BluetoothExample\\CustomSelectBluetoothDeviceDialog.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-22T20:22:22.677Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "BluetoothReconnectionManager.cs",
-              "DocumentMoniker": "C:\\Users\\Lucas\\Documents\\GitHub\\RapidScan-SPP-Demo\\BluetoothExample\\BluetoothExample\\BluetoothReconnectionManager.cs",
-              "RelativeDocumentMoniker": "BluetoothExample\\BluetoothReconnectionManager.cs",
-              "ToolTip": "C:\\Users\\Lucas\\Documents\\GitHub\\RapidScan-SPP-Demo\\BluetoothExample\\BluetoothExample\\BluetoothReconnectionManager.cs",
-              "RelativeToolTip": "BluetoothExample\\BluetoothReconnectionManager.cs",
-              "ViewState": "AQIAAA0AAAAAAAAAAAAgwCEAAAAEAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-22T20:22:21.546Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "BluetoothScanner.cs",
-              "DocumentMoniker": "C:\\Users\\Lucas\\Documents\\GitHub\\RapidScan-SPP-Demo\\BluetoothExample\\BluetoothExample\\BluetoothScanner.cs",
-              "RelativeDocumentMoniker": "BluetoothExample\\BluetoothScanner.cs",
-              "ToolTip": "C:\\Users\\Lucas\\Documents\\GitHub\\RapidScan-SPP-Demo\\BluetoothExample\\BluetoothExample\\BluetoothScanner.cs",
-              "RelativeToolTip": "BluetoothExample\\BluetoothScanner.cs",
-              "ViewState": "AQIAAA4AAAAAAAAAAAAwwCEAAAB2AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-22T20:22:21.543Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 7,
               "Title": "CustomSelectBluetoothDeviceDialog.Designer.cs",
               "DocumentMoniker": "C:\\Users\\Lucas\\Documents\\GitHub\\RapidScan-SPP-Demo\\BluetoothExample\\BluetoothExample\\CustomSelectBluetoothDeviceDialog.Designer.cs",
               "RelativeDocumentMoniker": "BluetoothExample\\CustomSelectBluetoothDeviceDialog.Designer.cs",
@@ -165,7 +125,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 6,
               "Title": "BluetoothConnectionManager.cs",
               "DocumentMoniker": "C:\\Users\\Lucas\\Documents\\GitHub\\RapidScan-SPP-Demo\\BluetoothExample\\BluetoothExample\\BluetoothConnectionManager.cs",
               "RelativeDocumentMoniker": "BluetoothExample\\BluetoothConnectionManager.cs",
@@ -177,7 +137,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 8,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Lucas\\Documents\\GitHub\\RapidScan-SPP-Demo\\BluetoothExample\\BluetoothExample\\Program.cs",
               "RelativeDocumentMoniker": "BluetoothExample\\Program.cs",
@@ -186,6 +146,17 @@
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-22T20:27:04.521Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CustomSelectBluetoothDeviceDialog.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Lucas\\Documents\\GitHub\\RapidScan-SPP-Demo\\BluetoothExample\\BluetoothExample\\CustomSelectBluetoothDeviceDialog.cs",
+              "RelativeDocumentMoniker": "BluetoothExample\\CustomSelectBluetoothDeviceDialog.cs",
+              "ToolTip": "C:\\Users\\Lucas\\Documents\\GitHub\\RapidScan-SPP-Demo\\BluetoothExample\\BluetoothExample\\CustomSelectBluetoothDeviceDialog.cs [Design]",
+              "RelativeToolTip": "BluetoothExample\\CustomSelectBluetoothDeviceDialog.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T20:22:22.677Z"
             }
           ]
         }

@@ -43,7 +43,7 @@ namespace BluetoothExample
                          && !BluetoothReconnectionManager.InInReconnectionList(device.DeviceAddress))
                     {
                             ListViewItem x = new ListViewItem();
-                            x.Text = device.DeviceAddress.ToString() + "\n" + "IPC Halo";
+                            x.Text = device.DeviceAddress.ToString() + "\n" + device.DeviceName;
                             x.ImageIndex = 0;
                             x.Tag = device;
                             lstDevices.Items.Add(x);
